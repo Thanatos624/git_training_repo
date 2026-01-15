@@ -26,6 +26,7 @@ The application provides real-time feedback to improve usability:
 
 - **Success Message**  
   Displayed when a count is saved successfully.
+  
   <img width="609" height="374" alt="image" src="https://github.com/user-attachments/assets/60cdbe18-a9b1-434f-8d6f-8d267486dcd4" />
 
 
@@ -34,6 +35,7 @@ The application provides real-time feedback to improve usability:
 
 - **Error Message**  
   Displayed when the counter reaches the maximum allowed limit.
+  
   <img width="579" height="419" alt="image" src="https://github.com/user-attachments/assets/02e65892-3d4a-4c2d-b958-da599b359cc2" />
 
 
