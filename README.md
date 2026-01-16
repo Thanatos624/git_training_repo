@@ -56,3 +56,6 @@ Messages are shown temporarily and cleared automatically.
 1. Clone the repository:
    ```bash
    git clone <repository-url>
+Happy Coding!
+
+Thankyou
